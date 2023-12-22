@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aad51f42-4306-4939-8346-dd9f9a34de3d" name="变更" comment="">
+    <list default="true" id="aad51f42-4306-4939-8346-dd9f9a34de3d" name="变更" comment="淮安实训12——21">
       <change afterPath="$PROJECT_DIR$/src/ClassTest/ClassTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Demo/MyLinkedList.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Demo/Student.java" afterDir="false" />
@@ -144,11 +144,23 @@
       <updated>1703120196803</updated>
       <workItem from="1703120198119" duration="28394000" />
       <workItem from="1703214031470" duration="690000" />
-      <workItem from="1703226390042" duration="2124000" />
+      <workItem from="1703226390042" duration="2243000" />
     </task>
+    <task id="LOCAL-00001" summary="淮安实训12——21">
+      <created>1703229484946</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703229484946</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="淮安实训12——21" />
+    <option name="LAST_COMMIT_MESSAGE" value="淮安实训12——21" />
   </component>
 </project>
